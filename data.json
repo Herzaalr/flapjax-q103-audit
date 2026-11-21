@@ -1,0 +1,263 @@
+{
+ "task": "FlapJax Series 3 Q103 \u2014 on-chain audit of treasury FLAPJAX transfers, 2026-11-19 COT",
+ "taskmarket": {
+  "base_task_id": "0x6ebb27085d014b4e4b8cc915c38760ba2578c8208cc75e6466adfd62129bf48f",
+  "reference": "TSK-WJ1N1NGR"
+ },
+ "treasury": "0x7C34E9e21eE28A49Ff0b84B61774119E6633359f",
+ "token": "0x90c8889f428F9Ebb77BB8f15CAD3a50a9aC680df",
+ "day_cot": "2026-11-19",
+ "window": {
+  "start_cot": "2026-11-19 00:00:00",
+  "end_cot": "2026-11-19 23:59:59",
+  "start_utc": "2026-11-19 05:00:00",
+  "end_utc": "2026-11-20 04:59:59",
+  "start_unix": 1795064400,
+  "end_unix": 1795150799
+ },
+ "firstBlock": 134443555,
+ "lastBlock": 134635477,
+ "block_count": 191923,
+ "transfers": [
+  {
+   "tx": "0x6eeb0f6bcc12c8301151ae9033bce03affcb59da3ea8447e5c33aa9597dc7d76",
+   "block": 134517255,
+   "timestamp_utc": 1795097584,
+   "time_utc": "2026-11-19 14:13:04",
+   "time_cot": "2026-11-19 09:13:04",
+   "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "amount_raw": "25000000000000000000000",
+   "amount_flapjax": 25000
+  },
+  {
+   "tx": "0xdca584c9e5fb0c2cadea0bcf6f40cd33faa7294d543be4d4dc73e7da64c6a6ac",
+   "block": 134517309,
+   "timestamp_utc": 1795097608,
+   "time_utc": "2026-11-19 14:13:28",
+   "time_cot": "2026-11-19 09:13:28",
+   "to": "0x56b40205e0f8cd49eecb253ae82a5308f45a1cf3",
+   "amount_raw": "15000000000000000000000",
+   "amount_flapjax": 15000
+  },
+  {
+   "tx": "0x4a4d4715336bcda9acdc52a751694a5cbf002b38931f0a68f928bc3e06b79fcd",
+   "block": 134517364,
+   "timestamp_utc": 1795097633,
+   "time_utc": "2026-11-19 14:13:53",
+   "time_cot": "2026-11-19 09:13:53",
+   "to": "0xac958f0925a31a2c3844179ab62f12d480baa76d",
+   "amount_raw": "15000000000000000000000",
+   "amount_flapjax": 15000
+  },
+  {
+   "tx": "0xb3740e7d9ec21caa0467986bb254db0809ad60cad5147bc5282fa17f19a60eab",
+   "block": 134548305,
+   "timestamp_utc": 1795111562,
+   "time_utc": "2026-11-19 18:06:02",
+   "time_cot": "2026-11-19 13:06:02",
+   "to": "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c",
+   "amount_raw": "25000000000000000000000",
+   "amount_flapjax": 25000
+  },
+  {
+   "tx": "0xdc3b42c6b34c68d1fc94bbc475ccb857a68b34f8e36547df2e0f0b51053a2a91",
+   "block": 134548358,
+   "timestamp_utc": 1795111586,
+   "time_utc": "2026-11-19 18:06:26",
+   "time_cot": "2026-11-19 13:06:26",
+   "to": "0xa4c86f4e9d9ec8990f843aa49470083cece5f908",
+   "amount_raw": "15000000000000000000000",
+   "amount_flapjax": 15000
+  },
+  {
+   "tx": "0xaab1f7bfcfa7ef9f3e641871f318f3ce7e89c4e8146276f24b4f4095eef119f0",
+   "block": 134590662,
+   "timestamp_utc": 1795130625,
+   "time_utc": "2026-11-19 23:23:45",
+   "time_cot": "2026-11-19 18:23:45",
+   "to": "0xaf7f0f0fe64e4304a6e48f89b714b21746f0c0f6",
+   "amount_raw": "25000000000000000000000",
+   "amount_flapjax": 25000
+  },
+  {
+   "tx": "0x5222ba3fd4d77995809760747b870387a326d65e571aa6cab70c5062628deff4",
+   "block": 134590714,
+   "timestamp_utc": 1795130648,
+   "time_utc": "2026-11-19 23:24:08",
+   "time_cot": "2026-11-19 18:24:08",
+   "to": "0xaf7f0f0fe64e4304a6e48f89b714b21746f0c0f6",
+   "amount_raw": "25000000000000000000000",
+   "amount_flapjax": 25000
+  },
+  {
+   "tx": "0x992f570e3616a94c6cec3e488da88dc6ecbd5ab6160c4ab0dac139a193f59b1c",
+   "block": 134590766,
+   "timestamp_utc": 1795130672,
+   "time_utc": "2026-11-19 23:24:32",
+   "time_cot": "2026-11-19 18:24:32",
+   "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "amount_raw": "25000000000000000000000",
+   "amount_flapjax": 25000
+  },
+  {
+   "tx": "0x0cc4ace68ee20844824ab4bee921148ec7f65e8de4547dde300c6312a6a95b90",
+   "block": 134590817,
+   "timestamp_utc": 1795130695,
+   "time_utc": "2026-11-19 23:24:55",
+   "time_cot": "2026-11-19 18:24:55",
+   "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "amount_raw": "25000000000000000000000",
+   "amount_flapjax": 25000
+  },
+  {
+   "tx": "0xdc412e60c6ccf558d81160cfc43e9afa15c7dcecbf4e0289afe568235cedb36a",
+   "block": 134590868,
+   "timestamp_utc": 1795130718,
+   "time_utc": "2026-11-19 23:25:18",
+   "time_cot": "2026-11-19 18:25:18",
+   "to": "0xfd5efa5c47fb3be071b2fd38fc88dfa30318c5d2",
+   "amount_raw": "15000000000000000000000",
+   "amount_flapjax": 15000
+  },
+  {
+   "tx": "0x129208753d8298f42c584af4796eff3adfba741cd2aaf389494473a6ca56ea0e",
+   "block": 134590926,
+   "timestamp_utc": 1795130744,
+   "time_utc": "2026-11-19 23:25:44",
+   "time_cot": "2026-11-19 18:25:44",
+   "to": "0xca58696564492ef9c3229c89072365b253bda246",
+   "amount_raw": "15000000000000000000000",
+   "amount_flapjax": 15000
+  }
+ ],
+ "recipients": {
+  "0x56b40205e0f8cd49eecb253ae82a5308f45a1cf3": {
+   "first_funder": null,
+   "funder_tx": null,
+   "funder_block": null,
+   "funder_time_cot": null,
+   "funder_amount_bnb": null,
+   "evidence": "EOA (code 0x), nonce 0, BNB balance 0 at latest (2026-11-21). An EOA that never sent a transaction and holds 0 BNB cannot have received BNB: any BNB received would still be in the balance. Never funded with BNB.",
+   "flapjax_received": 15000,
+   "transfer_count": 1
+  },
+  "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c": {
+   "first_funder": null,
+   "funder_tx": null,
+   "funder_block": null,
+   "funder_time_cot": null,
+   "funder_amount_bnb": null,
+   "evidence": "EOA (code 0x), nonce 0, BNB balance 0 at latest (2026-11-21). Never funded with BNB (same proof as above).",
+   "flapjax_received": 75000,
+   "transfer_count": 3
+  },
+  "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c": {
+   "first_funder": "0xa5a5491bca93dd4c076e4906e79e7673f4a5a142",
+   "funder_tx": "0x9a2aad5e93baea6dbee144b4a9615172a6dd82eddd26007186436a39caa27639",
+   "funder_block": 132005597,
+   "funder_time_cot": "2026-11-06 07:04:40",
+   "funder_amount_bnb": "0.000193009353538407",
+   "evidence": "First nonzero BNB balance at block 132005597 (balance 0 at block 132005596; 0 at spot checks 1M/5M/20M blocks earlier). Funding tx found in that block's full transaction list: direct value transfer from 0xa5a5491bca93dd4c076e4906e79e7673f4a5a142, input 0xf297dd3c... (32-byte input to an EOA). Funder is an EOA (code 0x), nonce 752675, balance 1.7838561837042337 BNB at 2026-11-21. Funder's own first funding: 3.0 BNB from 0xf70da97812cb96acdf810712aa562db8dfa3dbef, tx 0x72d0a1e82368e88a6dab7045927f2b1610b52692f60be6b89cd003ec383d994a, block 116978704, 2026-08-19 23:47:01 COT \u2014 NOT the treasury.",
+   "flapjax_received": 25000,
+   "transfer_count": 1
+  },
+  "0xa4c86f4e9d9ec8990f843aa49470083cece5f908": {
+   "first_funder": null,
+   "funder_tx": null,
+   "funder_block": null,
+   "funder_time_cot": null,
+   "funder_amount_bnb": null,
+   "evidence": "EOA (code 0x), nonce 0, BNB balance 0 at latest (2026-11-21). Never funded with BNB.",
+   "flapjax_received": 15000,
+   "transfer_count": 1
+  },
+  "0xac958f0925a31a2c3844179ab62f12d480baa76d": {
+   "first_funder": null,
+   "funder_tx": null,
+   "funder_block": null,
+   "funder_time_cot": null,
+   "funder_amount_bnb": null,
+   "evidence": "EOA (code 0x), nonce 0, BNB balance 0 at latest (2026-11-21). Never funded with BNB.",
+   "flapjax_received": 15000,
+   "transfer_count": 1
+  },
+  "0xaf7f0f0fe64e4304a6e48f89b714b21746f0c0f6": {
+   "first_funder": null,
+   "funder_tx": null,
+   "funder_block": null,
+   "funder_time_cot": null,
+   "funder_amount_bnb": null,
+   "evidence": "EOA (code 0x), nonce 0, BNB balance 0 at latest (2026-11-21). Never funded with BNB.",
+   "flapjax_received": 50000,
+   "transfer_count": 2
+  },
+  "0xca58696564492ef9c3229c89072365b253bda246": {
+   "first_funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+   "funder_tx": "0x87443eff758296585f6d6eb7b68800ea6c73f143239e60541a6ef5b1f072d456",
+   "funder_block": 130097514,
+   "funder_time_cot": "2026-10-27 08:29:06",
+   "funder_amount_bnb": "0.0005",
+   "evidence": "First nonzero BNB balance at block 130097514 (balance 0 at block 130097513; 0 at spot checks 1M/5M/20M blocks earlier). Funding tx in that block: plain 0.0005 BNB transfer FROM THE TREASURY (0x7c34e9e21ee28a49ff0b84b61774119e6633359f), input 0x.",
+   "flapjax_received": 15000,
+   "transfer_count": 1
+  },
+  "0xfd5efa5c47fb3be071b2fd38fc88dfa30318c5d2": {
+   "first_funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+   "funder_tx": "0x13ff2afcbc50a6ef03f603650ad84642c23c9c26a896612e8e16f5698e6ef2c6",
+   "funder_block": 126835416,
+   "funder_time_cot": "2026-10-10 08:25:35",
+   "funder_amount_bnb": "0.0005",
+   "evidence": "First nonzero BNB balance at block 126835416 (balance 0 at block 126835415; 0 at spot checks 1M/5M/20M blocks earlier). Funding tx in that block: plain 0.0005 BNB transfer FROM THE TREASURY, input 0x.",
+   "flapjax_received": 15000,
+   "transfer_count": 1
+  }
+ },
+ "groups": {
+  "treasury_as_first_funder": [
+   "0xca58696564492ef9c3229c89072365b253bda246",
+   "0xfd5efa5c47fb3be071b2fd38fc88dfa30318c5d2"
+  ],
+  "0xa5a5491bca93dd4c076e4906e79e7673f4a5a142_as_first_funder": [
+   "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c"
+  ],
+  "never_received_bnb": [
+   "0x56b40205e0f8cd49eecb253ae82a5308f45a1cf3",
+   "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "0xa4c86f4e9d9ec8990f843aa49470083cece5f908",
+   "0xac958f0925a31a2c3844179ab62f12d480baa76d",
+   "0xaf7f0f0fe64e4304a6e48f89b714b21746f0c0f6"
+  ]
+ },
+ "funder_of_funder": {
+  "0xa5a5491bca93dd4c076e4906e79e7673f4a5a142": {
+   "first_funder": "0xf70da97812cb96acdf810712aa562db8dfa3dbef",
+   "funder_tx": "0x72d0a1e82368e88a6dab7045927f2b1610b52692f60be6b89cd003ec383d994a",
+   "funder_block": 116978704,
+   "funder_time_cot": "2026-08-19 23:47:01",
+   "funder_amount_bnb": "3.0"
+  }
+ },
+ "totals": {
+  "transfer_count": 11,
+  "distinct_recipients": 8,
+  "total_flapjax_raw": "225000000000000000000000",
+  "total_flapjax": 225000,
+  "distinct_operators_evidenced": 2,
+  "note": "2 operators are evidenced by first-funder links (treasury; 0xa5a5...). The 5 never-BNB-funded recipients have no on-chain BNB link to any operator and are unattributable by this method."
+ },
+ "uncoveredTx": "0x129208753d8298f42c584af4796eff3adfba741cd2aaf389494473a6ca56ea0e",
+ "uncoveredTx_note": "15,000 FLAPJAX, block 134590926, 2026-11-19 18:25:44 COT, treasury -> 0xca58696564492ef9c3229c89072365b253bda246. Chosen because the recipient's full chain story is verified end-to-end: first funded with BNB by the treasury itself (0.0005 BNB, 2026-10-27), then paid 15,000 FLAPJAX by the treasury on 2026-11-19.",
+ "unexplained": [
+  "Five recipients (0x56b4..., 0x97cd..., 0xa4c8..., 0xac95..., 0xaf7f...) received FLAPJAX but never received BNB (EOA, nonce 0, balance 0). No on-chain BNB link ties them to the treasury or to any other operator; who operates them cannot be determined from BNB funding. This is a finding, not a data gap: the proof is in the nonce+balance+code checks.",
+  "The identity/operator behind funder 0xa5a5491bca93dd4c076e4906e79e7673f4a5a142 (nonce 752675, a very active EOA) is not identified \u2014 only that it is distinct from the treasury (its own first funder is 0xf70da97812cb96acdf810712aa562db8dfa3dbef, 3.0 BNB on 2026-08-19)."
+ ],
+ "methodology": "Block range by binary search on eth_getBlockByNumber timestamps against public BSC RPCs (bsc-dataseed.binance.org etc.), neighbors verified. Transfers: eth_getLogs over the full 191,923-block range in 2,000-block chunks (96 chunks) on the FLAPJAX contract filtered by Transfer topic with from=treasury; 11 logs found in 3 chunks, 0 in the other 93 \u2014 full scan completed with no failed chunks. Amounts are exact integer raw values (18 decimals). First funders: historical eth_getBalance via the Blast public RPC (archive-capable) + binary search for the first nonzero-balance block; funding tx identified from that block's full transaction list; pre-funding spot checks at -1M/-5M/-20M blocks all 0. Never-funded proof: eth_getCode=0x (EOA) + nonce 0 + balance 0 at latest.",
+ "limitations": [
+  "BscScan/Etherscan API keyless access unavailable (Etherscan V2: 'Free API access is not supported for this chain'; api.bscscan.com redirects to API docs; bscscan.com web returns 403). No API key was used or stored.",
+  "Subsquid archive GraphQL unreachable from this VM (connection timeout).",
+  "Public BSC RPCs heavily rate-limit eth_getLogs (-32005); all chunks eventually succeeded with retries across 14 endpoints \u2014 no chunk was skipped.",
+  "First-funder search assumes a wallet's BNB balance does not return to exactly 0 and get re-funded before the found block; spot checks at -1M/-5M/-20M blocks and monotonically decreasing balances since funding support the single-funding reading.",
+  "Internal-transaction funding was checked for only in the sense that all three funded wallets' first balance increase coincides with a direct value transfer in the same block; a dedicated trace (debug_trace*) was not run because the direct tx fully explains each increase."
+ ],
+ "checked_at": "2026-11-21 (WIB), latest block observed 134833819"
+}
